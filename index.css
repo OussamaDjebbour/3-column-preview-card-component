@@ -10,9 +10,7 @@
 
 body {
   font-family: "Lexend Deca", sans-serif;
-  /* font-family: "Big Shoulders Display", cursive; */
   background-color: var(--very_Light_Gray);
-  /* width: 1000px; */
   min-height: 100vh;
   font-size: 15px;
   color: var(--very_Light_Gray);
@@ -31,12 +29,10 @@ body {
 }
 
 .child {
-  /* background-color: black; */
   padding: 50px;
   min-height: 400px;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: flex-start;
   gap: 30px;
 }
